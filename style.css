@@ -1,0 +1,23 @@
+body{
+    background: #232424;
+}
+
+.menu{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    width: 60px;
+    height: 40px;
+}
+.menu h1{
+    margin: 10px 40px;
+    margin-left: 10px;
+    font-size: 20px;
+    list-style: none;
+    color: #fff;
+}
+.menu-item{
+    list-style: none;
+    color: #fff;
+    justify-content: space-between;
+}
